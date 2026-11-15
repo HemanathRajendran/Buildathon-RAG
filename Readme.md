@@ -148,7 +148,7 @@ pip install -r requirements.txt
 ## Environment Variables
 
 ```bash
-export AZURE_OPENAI_ENDPOINT="https://athenagpt-gateway.uat.athena.io"
+export AZURE_OPENAI_ENDPOINT=""
 export AZURE_OPENAI_API_VERSION="2024-02-01"
 export AZURE_OPENAI_API_KEY="<your-api-key>"
 ```
